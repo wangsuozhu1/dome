@@ -5,3 +5,6 @@ def jisuan():
 	c=a+b
 	return c
 print jisuan()
+def total():
+	ss=1
+print total()
