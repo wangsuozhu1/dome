@@ -7,4 +7,5 @@ def jisuan():
 print jisuan()
 def total():
 	ss=1
-print total()
+print total()# some changes
+sss dd 
